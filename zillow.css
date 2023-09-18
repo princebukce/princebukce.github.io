@@ -1,0 +1,28 @@
+.navbar{
+    background-color: bisque;
+    height: 90px;
+ }
+.building-samples{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color:bisque;
+}
+.samples{
+    height: 200px;
+    width: 20%;
+}
+
+.div2-con{
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; */
+    background-color: bisque;
+
+}
+.div2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #ffb55e;
+}
